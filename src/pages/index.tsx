@@ -22,7 +22,7 @@ export const Index = () => (
       They deserve a good home!
       </Text>
       <Button mt="8" as="a" href="#" size="lg" colorScheme="blue" fontWeight="bold">
-        Start Free Trial
+        Go to the cutness
       </Button>
     </Box>
 
